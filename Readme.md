@@ -191,7 +191,7 @@ func saveUniverse() async -> String {
 
 ```
 
-# Some practice questions to make hands dirty
+# Some practice material to make hands dirty
 
     Protocol Hands-On:
 
